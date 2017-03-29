@@ -1,0 +1,67 @@
+Station 0: workload set to 2.
+Station0: In-Connection set to conveyor0.
+Station 1: workload set to 3.
+Station1: In-Connection set to conveyor0.
+Station1: Out-Connection set to conveyor1.
+Station 2: workload set to 4.
+Station2: In-Connection set to conveyor1.
+Station2: Out-Connection set to conveyor2.
+Station0: Out-Connection set to conveyor1.
+Station 0 granted access to conveyor 1
+Station 2 granted access to conveyor 2
+Station 0 granted access to conveyor 0
+Station 0 successfully moves packages on conveyor 1
+Station 0 successfully moves packages on conveyor 0
+Station 0 released access to conveyor 1
+Station 1 granted access to conveyor 1
+Station 0 released access to conveyor 0
+Station 1 granted access to conveyor 0
+Station 1 successfully moves packages on conveyor 1
+Station 1 successfully moves packages on conveyor 0
+Station 1 released access to conveyor 1
+Station 2 granted access to conveyor 1
+Station 2 successfully moves packages on conveyor 2
+Station 1 released access to conveyor 0
+Station 2 successfully moves packages on conveyor 1
+Station 2 released access to conveyor 2
+Station 2 released access to conveyor 1
+Station 0 granted access to conveyor 1
+Station 2 granted access to conveyor 2
+Station 0 granted access to conveyor 0
+Station 0 successfully moves packages on conveyor 1
+Station 0 successfully moves packages on conveyor 0
+Station 0 released access to conveyor 1
+Station 1 granted access to conveyor 1
+Station 0 released access to conveyor 0
+Station 1 granted access to conveyor 0
+* * Station 0: workload successfully completed. * *
+Station 1 successfully moves packages on conveyor 1
+Station 1 successfully moves packages on conveyor 0
+Station 1 released access to conveyor 1
+Station 2 granted access to conveyor 1
+Station 1 released access to conveyor 0
+Station 2 successfully moves packages on conveyor 2
+Station 2 successfully moves packages on conveyor 1
+Station 2 released access to conveyor 2
+Station 2 released access to conveyor 1
+Station 1 granted access to conveyor 1
+Station 2 granted access to conveyor 2
+Station 1 granted access to conveyor 0
+Station 1 successfully moves packages on conveyor 1
+Station 1 successfully moves packages on conveyor 0
+Station 1 released access to conveyor 1
+Station 2 granted access to conveyor 1
+Station 1 released access to conveyor 0
+* * Station 1: workload successfully completed. * *
+Station 2 successfully moves packages on conveyor 2
+Station 2 successfully moves packages on conveyor 1
+Station 2 released access to conveyor 2
+Station 2 released access to conveyor 1
+Station 2 granted access to conveyor 2
+Station 2 granted access to conveyor 1
+Station 2 successfully moves packages on conveyor 2
+Station 2 successfully moves packages on conveyor 1
+Station 2 released access to conveyor 2
+Station 2 released access to conveyor 1
+* * Station 2: workload successfully completed. * *
+BUILD SUCCESSFUL (total time: 0 seconds)
